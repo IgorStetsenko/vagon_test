@@ -1,1 +1,2 @@
-# vagon_test
+This repository provides a small analysis of the images of railway car numbers. For recognition, a pytesseract was used.
+Data can be downloaded from the link: https://drive.google.com/open?id=1D6Pz24oMIVB8K1q2JACyBtFatUr3_Ms8
